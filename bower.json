@@ -1,0 +1,11 @@
+{
+  "name": "app",
+  "dependencies": {
+    "openui5-sap.ui.core": "openui5/packaged-sap.ui.core#^1.52.1",
+    "openui5-sap.ui.layout": "openui5/packaged-sap.ui.layout#^1.52.1",
+    "openui5-themelib_sap_belize": "^1.52.1",
+    "openui5-sap.m": "openui5/packaged-sap.m#^1.52.1",
+    "less": "^2.7.3",
+    "lokijs": "^1.5.1"
+  }
+}
